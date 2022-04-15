@@ -1,0 +1,79 @@
+.grid{
+  /* background-color: #2D3C49; */
+  background-color: #092338;
+  border: none;
+  color:white;
+}
+
+.highradius-logo{
+  text-align: center;
+  height: 25;
+}
+
+body{
+  background-color: #172f3f;
+}
+
+
+.box-container {
+  width:100%;
+  text-align:center;
+}
+
+.left {
+  float:left;
+  padding-left:5px;
+}
+
+.center {
+  display: inline-block;
+}
+
+.right {
+  float:right;
+  padding-right:5px;
+}
+
+.highradius-logo{
+  position: relative;
+  left: 25%;
+}
+
+.dashboard{
+  /* background-color: #2D3C49; */
+  background-color: #a0abb4;
+}
+
+a:visited{
+  text-decoration: none;
+  color:#61dafb;
+}
+
+.footer{
+  color:white;
+}
+
+.footer-link{
+  color: #0D6EFD;
+}
+
+.search-box{
+  border-radius: 10px;
+  border: 2px solid;
+  width: 50ch;
+}
+.page{
+  text-align: center;
+}
+.addform{
+  background-color: #29526d;
+}
+.add{
+  background-color: #29526d;
+}
+.edit{
+  background-color: #29526d;
+}
+.search{
+  background-color: #29526d;
+}
