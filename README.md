@@ -1,4 +1,9 @@
 # AI-Enabled-B2B-Fintech-Invoice-Management-Application
+• Had developed an AI Enabled Fintech B2B Invoice Management Application.
+• Used XGBoost ML Model to predict the payment clearance date of each invoice.
+• Deployed the ML Model on a Flask Server achieving an accuracy of 79.35% and error rate of 9.74%
+• Developed the complete application using ReactJS, JavaScript, Java, JDBC, Servlets and MySQL.
+
 Grid:
 
 ![image](https://user-images.githubusercontent.com/79992803/177463200-0859b59c-167d-45d1-9431-67c7a1feecbc.png)
